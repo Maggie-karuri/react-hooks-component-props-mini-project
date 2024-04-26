@@ -1,8 +1,9 @@
 :root {
   --bg: #282c34;
   --header: #fff;
-  --link: #61dafb;
+  --link: rgb(243, 133, 151);
   --text: hsla(0, 0%, 100%, 0.88);
+  
 }
 
 body {
@@ -19,6 +20,7 @@ h3 {
   font-size: 2em;
   font-family: Montserrat, sans-serif;
   font-weight: 900;
+  
 }
 
 .App {
@@ -38,8 +40,8 @@ aside {
 }
 
 aside img {
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 80px;
   border-radius: 50%;
   margin-right: 1rem;
   background-color: black;
